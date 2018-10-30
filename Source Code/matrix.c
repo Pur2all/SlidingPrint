@@ -277,6 +277,9 @@ char** generateMatrix(char c)
       m[5][6]='#';
     break;
     case 'w':
+      //I'll do it
+    break;
+    case 'x':
       m[0][1]='#';
       m[1][2]='#';
       m[2][3]='#';
